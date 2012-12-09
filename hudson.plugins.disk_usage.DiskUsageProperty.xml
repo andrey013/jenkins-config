@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<hudson.plugins.disk__usage.DiskUsageProperty_-DiskUsageDescriptor plugin="disk-usage@0.18">
+  <helpRedirect/>
+  <showGraph>false</showGraph>
+  <converted>true</converted>
+</hudson.plugins.disk__usage.DiskUsageProperty_-DiskUsageDescriptor>
