@@ -39,15 +39,21 @@
       </jobNames>
       <jobFilters/>
       <columns>
-        <hudson.views.BuildButtonColumn/>
+        <jenkins.plugins.extracolumns.ConfigureProjectColumn plugin="extra-columns@1.6"/>
         <hudson.views.StatusColumn/>
         <hudson.views.WeatherColumn/>
         <jenkins.plugins.jobicon.CustomIconColumn plugin="custom-job-icon@0.2"/>
+        <hudson.views.BuildButtonColumn/>
         <hudson.views.JobColumn/>
+        <jenkins.plugins.extracolumns.BuildDescriptionColumn plugin="extra-columns@1.6"/>
         <hudson.plugins.projectstats.column.NumBuildsColumn plugin="project-stats-plugin@0.4"/>
         <hudson.views.LastDurationColumn/>
         <hudson.views.LastSuccessColumn/>
         <hudson.views.LastFailureColumn/>
+        <jenkins.plugins.extracolumns.TestResultColumn plugin="extra-columns@1.6">
+          <testResultFormat>0</testResultFormat>
+        </jenkins.plugins.extracolumns.TestResultColumn>
+        <jenkins.plugins.extracolumns.SCMTypeColumn plugin="extra-columns@1.6"/>
       </columns>
       <useCssStyle>false</useCssStyle>
       <includeStdJobList>false</includeStdJobList>
@@ -55,7 +61,7 @@
       <rightPortletWidth>50%</rightPortletWidth>
       <leftPortlets>
         <hudson.plugins.view.dashboard.test.TestStatisticsPortlet>
-          <id>dashboard_portlet_26780</id>
+          <id>dashboard_portlet_25967</id>
           <name>Test Statistics Grid</name>
           <useBackgroundColors>false</useBackgroundColors>
           <skippedColor>FDB813</skippedColor>
@@ -65,7 +71,7 @@
       </leftPortlets>
       <rightPortlets>
         <hudson.plugins.view.dashboard.test.TestTrendChart>
-          <id>dashboard_portlet_8167</id>
+          <id>dashboard_portlet_7371</id>
           <name>Test Trend Chart</name>
           <graphWidth>300</graphWidth>
           <graphHeight>220</graphHeight>
@@ -75,7 +81,7 @@
       </rightPortlets>
       <topPortlets>
         <hudson.plugins.view.dashboard.core.HudsonStdJobsPortlet>
-          <id>dashboard_portlet_22715</id>
+          <id>dashboard_portlet_25395</id>
           <name>Jenkins jobs list</name>
         </hudson.plugins.view.dashboard.core.HudsonStdJobsPortlet>
       </topPortlets>
