@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<hudson.plugins.phing.PhingDescriptor plugin="phing@0.11">
+  <helpRedirect/>
+  <installations/>
+</hudson.plugins.phing.PhingDescriptor>
