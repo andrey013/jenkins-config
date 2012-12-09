@@ -48,12 +48,6 @@
         <hudson.views.LastDurationColumn/>
         <hudson.views.LastSuccessColumn/>
         <hudson.views.LastFailureColumn/>
-        <jenkins.plugins.extracolumns.TestResultColumn plugin="extra-columns@1.6">
-          <testResultFormat>0</testResultFormat>
-        </jenkins.plugins.extracolumns.TestResultColumn>
-        <jenkins.plugins.extracolumns.BuildDescriptionColumn plugin="extra-columns@1.6"/>
-        <jenkins.plugins.extracolumns.ConfigureProjectColumn plugin="extra-columns@1.6"/>
-        <jenkins.plugins.extracolumns.SCMTypeColumn plugin="extra-columns@1.6"/>
       </columns>
       <useCssStyle>false</useCssStyle>
       <includeStdJobList>false</includeStdJobList>
@@ -61,7 +55,7 @@
       <rightPortletWidth>50%</rightPortletWidth>
       <leftPortlets>
         <hudson.plugins.view.dashboard.test.TestStatisticsPortlet>
-          <id>dashboard_portlet_20488</id>
+          <id>dashboard_portlet_26780</id>
           <name>Test Statistics Grid</name>
           <useBackgroundColors>false</useBackgroundColors>
           <skippedColor>FDB813</skippedColor>
@@ -71,7 +65,7 @@
       </leftPortlets>
       <rightPortlets>
         <hudson.plugins.view.dashboard.test.TestTrendChart>
-          <id>dashboard_portlet_4696</id>
+          <id>dashboard_portlet_8167</id>
           <name>Test Trend Chart</name>
           <graphWidth>300</graphWidth>
           <graphHeight>220</graphHeight>
@@ -81,7 +75,7 @@
       </rightPortlets>
       <topPortlets>
         <hudson.plugins.view.dashboard.core.HudsonStdJobsPortlet>
-          <id>dashboard_portlet_4222</id>
+          <id>dashboard_portlet_22715</id>
           <name>Jenkins jobs list</name>
         </hudson.plugins.view.dashboard.core.HudsonStdJobsPortlet>
       </topPortlets>
