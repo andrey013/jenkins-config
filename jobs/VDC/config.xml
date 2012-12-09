@@ -3,7 +3,11 @@
   <actions/>
   <description>aa</description>
   <keepDependencies>false</keepDependencies>
-  <properties/>
+  <properties>
+    <jenkins.plugins.jobicon.CustomIconProperty plugin="custom-job-icon@0.2">
+      <iconfile>de0d72ee4ff762ed170e6a2a1ef8d9a23519ec03.png</iconfile>
+    </jenkins.plugins.jobicon.CustomIconProperty>
+  </properties>
   <scm class="hudson.plugins.git.GitSCM" plugin="git@1.1.26">
     <configVersion>2</configVersion>
     <userRemoteConfigs>
