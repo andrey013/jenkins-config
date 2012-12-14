@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2012-12-09 12:26:52.896 MSK</timestamp>
+  <original>
+    <name>VDC</name>
+    <number>33</number>
+  </original>
+  <md5sum>acb3f1ef14e867f67a933c32dd7235c0</md5sum>
+  <fileName>SimpleMimeEntity.php</fileName>
+  <usages>
+    <entry>
+      <string>VDC Deploy</string>
+      <ranges>3-14</ranges>
+    </entry>
+    <entry>
+      <string>VDC</string>
+      <ranges>33-41,44</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
