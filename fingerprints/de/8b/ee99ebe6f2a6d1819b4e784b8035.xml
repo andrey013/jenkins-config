@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2012-12-09 12:26:54.722 MSK</timestamp>
+  <original>
+    <name>VDC</name>
+    <number>33</number>
+  </original>
+  <md5sum>de8bee99ebe6f2a6d1819b4e784b8035</md5sum>
+  <fileName>ebu_ke.php</fileName>
+  <usages>
+    <entry>
+      <string>VDC Deploy</string>
+      <ranges>3-14</ranges>
+    </entry>
+    <entry>
+      <string>VDC</string>
+      <ranges>33-41,44</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
