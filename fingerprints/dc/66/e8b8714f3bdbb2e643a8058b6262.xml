@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2012-12-09 12:26:53.51 MSK</timestamp>
+  <original>
+    <name>VDC</name>
+    <number>33</number>
+  </original>
+  <md5sum>dc66e8b8714f3bdbb2e643a8058b6262</md5sum>
+  <fileName>swift_init.php</fileName>
+  <usages>
+    <entry>
+      <string>VDC Deploy</string>
+      <ranges>3-14</ranges>
+    </entry>
+    <entry>
+      <string>VDC</string>
+      <ranges>33-41,44</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
