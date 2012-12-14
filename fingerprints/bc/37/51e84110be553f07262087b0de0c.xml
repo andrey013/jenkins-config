@@ -7,6 +7,11 @@
   </original>
   <md5sum>bc3751e84110be553f07262087b0de0c</md5sum>
   <fileName>list.php</fileName>
-  <usages/>
+  <usages>
+    <entry>
+      <string>VDC</string>
+      <ranges>44</ranges>
+    </entry>
+  </usages>
   <facets/>
 </fingerprint>
