@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2012-12-09 12:26:54.591 MSK</timestamp>
+  <original>
+    <name>VDC</name>
+    <number>33</number>
+  </original>
+  <md5sum>7364dd773f9a1baa33cbf6b58f627726</md5sum>
+  <fileName>bas.php</fileName>
+  <usages>
+    <entry>
+      <string>VDC Deploy</string>
+      <ranges>3-14</ranges>
+    </entry>
+    <entry>
+      <string>VDC</string>
+      <ranges>33-41,44</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
