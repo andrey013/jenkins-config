@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2012-12-09 12:26:53.843 MSK</timestamp>
+  <original>
+    <name>VDC</name>
+    <number>33</number>
+  </original>
+  <md5sum>38effe782766675f6b21d2762e0a946d</md5sum>
+  <fileName>CFileCache.php</fileName>
+  <usages>
+    <entry>
+      <string>VDC Deploy</string>
+      <ranges>3-14</ranges>
+    </entry>
+    <entry>
+      <string>VDC</string>
+      <ranges>33-41,44</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
