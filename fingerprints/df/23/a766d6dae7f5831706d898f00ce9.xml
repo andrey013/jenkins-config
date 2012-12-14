@@ -9,6 +9,10 @@
   <fileName>update.php</fileName>
   <usages>
     <entry>
+      <string>VDC Deploy</string>
+      <ranges>15</ranges>
+    </entry>
+    <entry>
       <string>VDC</string>
       <ranges>44</ranges>
     </entry>
