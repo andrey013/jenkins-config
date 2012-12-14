@@ -10,7 +10,7 @@
   <usages>
     <entry>
       <string>VDC Deploy</string>
-      <ranges>3-12,14</ranges>
+      <ranges>3-12,14-15</ranges>
     </entry>
     <entry>
       <string>VDC</string>
