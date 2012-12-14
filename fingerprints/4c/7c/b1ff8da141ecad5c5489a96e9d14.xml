@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2012-12-09 13:32:33.882 MSK</timestamp>
+  <original>
+    <name>VDC</name>
+    <number>40</number>
+  </original>
+  <md5sum>4c7cb1ff8da141ecad5c5489a96e9d14</md5sum>
+  <fileName>UploadHandler.php</fileName>
+  <usages>
+    <entry>
+      <string>VDC Deploy</string>
+      <ranges>13-14</ranges>
+    </entry>
+    <entry>
+      <string>VDC</string>
+      <ranges>40-41,44</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
