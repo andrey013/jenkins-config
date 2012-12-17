@@ -45,7 +45,7 @@
     <hudson.plugins.disk__usage.BuildDiskUsageAction plugin="disk-usage@0.18">
       <diskUsage>
         <buildUsage>19115599</buildUsage>
-        <wsUsage>0</wsUsage>
+        <wsUsage>60873373</wsUsage>
       </diskUsage>
       <build class="build" reference="../../.."/>
     </hudson.plugins.disk__usage.BuildDiskUsageAction>
