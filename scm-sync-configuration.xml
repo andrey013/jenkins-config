@@ -6,7 +6,7 @@
   <displayStatus>true</displayStatus>
   <commitMessagePattern>Jenkins: [message]</commitMessagePattern>
   <manualSynchronizationIncludes>
-    <include>*.xml</include>
+    <include>/*.xml</include>
     <include>userContent/**/*</include>
   </manualSynchronizationIncludes>
 </hudson.plugins.scm__sync__configuration.ScmSyncConfigurationPlugin>
